@@ -32,4 +32,6 @@ _350 67th St, Brooklyn, NY 11220_
    * [SEP 11 PORTFOLIO](https://sites.google.com/a/hstat.org/davidg1739sep11/)
      * GIT & GITHUB
      * WEB DESIGN
-     * 3D MODELING
+     * 3D MODELING  
+     
+**Reviewed by Eva Noertoft**
